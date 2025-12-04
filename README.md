@@ -203,17 +203,32 @@ VITE_API_URL=http://localhost:5000/api
 
 ## 🌐 Deployment
 
-### Quick Deployment (20 minutes)
+### 🚀 Live Application URLs
+
+**The application is deployed and accessible at:**
+
+- **Client (Frontend)**: https://plp-mern-stack-development.github.io/real-time-communication-with-socket-io-ricky092/
+- **Server (Backend)**: https://ricky-chat-server.onrender.com
+
+### Deployment Details
+
+**Server Deployment:**
+- Platform: Render (Free Tier)
+- Runtime: Node.js
+- Status: ✅ Live and Running
+
+**Client Deployment:**
+- Platform: GitHub Pages
+- Framework: React + Vite
+- Status: ✅ Live and Running
+
+### Quick Deployment Guides
 
 **Read**: `DEPLOYMENT-QUICK-START.md` for fastest deployment
 
 **Detailed Guide**: `DEPLOYMENT-GUIDE.md` for step-by-step instructions
 
 **Visual Guide**: `DEPLOYMENT-VISUAL-GUIDE.md` for screenshots and visuals
-
-**Live URLs:**
-- Server: https://ricky-chat-server.onrender.com
-- Client: (deploying...)
 
 ### Server Deployment (Render - Free)
 1. Push code to GitHub
