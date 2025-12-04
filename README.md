@@ -211,6 +211,10 @@ VITE_API_URL=http://localhost:5000/api
 
 **Visual Guide**: `DEPLOYMENT-VISUAL-GUIDE.md` for screenshots and visuals
 
+**Live URLs:**
+- Server: https://ricky-chat-server.onrender.com
+- Client: (deploying...)
+
 ### Server Deployment (Render - Free)
 1. Push code to GitHub
 2. Create Web Service on Render
